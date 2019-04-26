@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly> D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\bin\Debug\Plugin_Revit_Termico.dll </Assembly>
+    <ClientId>7b0a9db4-921d-46f0-a42a-e18c534ba298</ClientId>
+    <FullClassName>Plugin_Revit_Termico.Comando</FullClassName>
+    <Text>Desempenho Termico</Text>
+    <VendorId>ADSK</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>

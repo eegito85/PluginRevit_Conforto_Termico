@@ -1,0 +1,8 @@
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\bin\Debug\Plugin_Revit_Termico.dll
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\bin\Debug\Plugin_Revit_Termico.pdb
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.csprojResolveAssemblyReference.cache
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.dll
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.pdb
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.FormPrincipal.resources
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.Properties.Resources.resources
+D:\Egito\Documentos\Projetos_Computacao\Projeto_Plugin_Revit\Plugin_Revit_Termico\obj\Debug\Plugin_Revit_Termico.csproj.GenerateResource.Cache
